@@ -33,7 +33,7 @@ const features = [
   {
     title: "Comprehensive Reporting",
     description:
-      "Gain insights into your team's performance with detailed, customizable reports and analytics.",
+      "Gain insights into your team&apos;s performance with detailed, customizable reports and analytics.",
     icon: BarChart,
   },
 ];
